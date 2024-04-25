@@ -1,0 +1,14 @@
+{
+  "name": "git-curso",
+  "version": "1.0.0",
+  "description": "Curso Git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Ruiz",
+  "license": "ISC",
+  "dependencies": {
+    "loglevel": "^1.8.1"
+  }
+}
