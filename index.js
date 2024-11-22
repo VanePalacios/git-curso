@@ -1,6 +1,6 @@
 const log = require('loglevel');
 function funcion() {
-  console.log("Hola (commit de chago)")
+  console.log("Hola (commit)")
 }
 const main = () => {
   console.log('Inicio')
