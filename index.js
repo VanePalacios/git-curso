@@ -1,6 +1,6 @@
 const log = require('loglevel');
 function funcion() {
-  console.log("Ejemplo")
+  console.log("Hola Mundo VANESSA")
 }
 function VanessaAguilar() {console.log('Vanessa Aguilar')};
 const main = () => {
