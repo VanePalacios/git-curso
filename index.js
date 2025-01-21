@@ -3,7 +3,7 @@ function funcion() {
   console.log("Hola (commit)")
 }
 const main = () => {
-  console.log('Inicio 23/11/2024')
+  console.log('Inicio 21/01/2025')
   log.warn("unreasonably simple");
   funcion()
 }
